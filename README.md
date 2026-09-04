@@ -1,17 +1,17 @@
 # Let-s_go_practice
 ----------------------
-โจทย์โปรเจกต์: E-Commerce Sales & Customer Insights
+## โจทย์โปรเจกต์: E-Commerce Sales & Customer Insights
 
-1. สถานการณ์และโจทย์ธุรกิจ (Business Problem)
+### 1. สถานการณ์และโจทย์ธุรกิจ (Business Problem)
 เจ้าของร้านค้าออนไลน์แห่งหนึ่งต้องการนำข้อมูลประวัติการสั่งซื้อย้อนหลังมาใช้ปรับแผนการตลาด แต่ปัญหาคือข้อมูลกระจัดกระจาย มีรายการคืนสินค้า และข้อมูลบางส่วนหายไป โจทย์ของคุณคือการทำความสะอาดข้อมูล วิเคราะห์พฤติกรรมการซื้อ และสรุปเป็นรายงาน/Dashboard พร้อมคำแนะนำทางธุรกิจ
 
-2. ชุดข้อมูลที่ใช้ (Recommended Datasets)
+### 2. ชุดข้อมูลที่ใช้ (Recommended Datasets)
 
 Sample Superstore Dataset (ค้นหาได้บน Kaggle): เหมาะสำหรับเริ่มต้น มีครบทั้ง Date, Sales, Category, Region, Customer ID
 
 Online Retail Dataset (UCI Machine Learning Repository): ข้อมูลธุรกรรมจริง มีรายการคืนสินค้าและข้อมูลที่ต้อง Clean ค่อนข้างเยอะ เหมาะสำหรับฝึกแก้ปัญหาข้อมูล "รก"
 
-3. สิ่งที่คุณต้องลงมือทำ (Key Tasks)
+### 3. สิ่งที่คุณต้องลงมือทำ (Key Tasks)
 
 Data Cleaning & Wrangling:
 
@@ -37,13 +37,13 @@ Data Visualization:
 
 Heatmap แสดงความถี่การสั่งซื้อแบ่งตาม "วันในสัปดาห์ vs ช่วงเวลาของวัน"
 
-4. เครื่องมือที่ใช้ (Tech Stack)
+### 4. เครื่องมือที่ใช้ (Tech Stack)
 
 วิเคราะห์ข้อมูล: Python (Pandas, NumPy) หรือ SQL (SQLite / DuckDB)
 
 ทำ Visualization: Matplotlib / Seaborn (ทำใน Jupyter Notebook) หรือใช้ Streamlit / Power BI
 
-5. ผลลัพธ์สุดท้าย (Final Deliverables)
+### 5. ผลลัพธ์สุดท้าย (Final Deliverables)
 
 GitHub Repository: มีโค้ด Jupyter Notebook ที่เขียนอธิบายขั้นตอนอย่างเป็นระเบียบ และไฟล์ README.md
 
